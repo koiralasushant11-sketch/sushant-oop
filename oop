@@ -10,6 +10,6 @@ public class App {
         System.out.println("Last number?");
         int last = in.nextInt();
         
-        for ( int a = first; a <= last; a++) {
+        for ( int b = first; c <= last; b++) {
             System.out.println(a);
         }
